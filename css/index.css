@@ -107,8 +107,8 @@ header.fixed {
 /*m_banner*/
 .mban {
     width: 7.5rem;
-    height:9.23rem;
-    background: url(../images/banner.jpg) no-repeat center top;
+    height:9.03rem;
+    background: url(../images/ban.jpg) no-repeat center top;
     -webkit-background-size: 7.5rem;
     background-size: 7.5rem;
     padding-top: 5.24rem;
